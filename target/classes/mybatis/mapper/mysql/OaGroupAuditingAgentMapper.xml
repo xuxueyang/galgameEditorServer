@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.fengyun.cube.workflow.repository.OaGroupAuditingAgentMapper">
+    <resultMap id="OaGroupAgent" type="com.fengyun.cube.workflow.domain.OaGroupAuditingAgent">
+        <result column="DEPARTMENT_ID" property="departmentId" jdbcType="VARCHAR" />
+        <result column="AGENT_ID" property="agentId" jdbcType="VARCHAR" />
+        <result column="VERSION" property="version" jdbcType="INTEGER" />
+        <result column="TENANT_CODE" property="tenantCode" jdbcType="VARCHAR" />
+        <result column="SPACE_CODE" property="spaceCOde" jdbcType="VARCHAR" />
+        <result column="CREATED_ID" property="createdId" jdbcType="VARCHAR" />
+        <result column="UPDATED_ID" property="updatedId" jdbcType="VARCHAR" />
+        <result column="CREATED_DATE" property="createdDate" jdbcType="TIMESTAMP" />
+        <result column="UPDATED_DATE" property="updatedDate" jdbcType="TIMESTAMP" />
+    </resultMap>
+
+    <select id="findOneByDepartmentId" parameterType="java.lang.String" resultMap="OaGroupAgent">
+        SELECT *
+        FROM cube_group_agent_oa
+        WHERE DEPARTMENT_ID = #{departmentId}
+    </select>
+
+    <insert id="insert" parameterType="com.fengyun.cube.workflow.domain.OaGroupAuditingAgent">
+        INSERT INTO cube_group_agent_oa (DEPARTMENT_ID,AGENT_ID, VERSION, CREATED_ID, CREATED_DATE, UPDATED_ID, UPDATED_DATE,TENANT_CODE,SPACE_CODE)
+        VALUES  #{departmentId}, #{agentId},#{version}, #{createdId}, #{createdDate},
+        #{updatedId}, #{updatedDate},#{tenantCode},#{spaceCode})
+    </insert>
+
+    <update id="update" parameterType="com.fengyun.cube.workflow.domain.OaGroupAuditingAgent">
+        UPDATE cube_group_agent_oa
+        SET   AGENT_ID = #{agentId},
+        VERSION      = #{version}, CREATED_ID = #{createdId}, CREATED_DATE = #{createdDate},
+        UPDATED_ID   = #{updatedId}, UPDATED_DATE = #{updatedDate},TENANT_CODE = #{tenantCode},SPACE_CODE=#{spaceCode}
+        WHERE DEPARTMENT_ID = #{departmentId}
+    </update>
+    <delete id="deleteAll" parameterType="java.lang.String">
+        DELETE FROM cube_group_agent_oa
+    </delete>
+</mapper>

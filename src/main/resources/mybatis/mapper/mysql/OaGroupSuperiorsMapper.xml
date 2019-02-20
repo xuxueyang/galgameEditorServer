@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.fengyun.cube.workflow.repository.OaGroupSuperiorsMapper">
+    <resultMap id="OaGroupSup" type="com.fengyun.cube.workflow.domain.OaGroupSuperiors">
+        <result column="DEPARTMENT_ID" property="departmentId" jdbcType="VARCHAR" />
+        <result column="SUPERIOR_ID" property="superiorId" jdbcType="VARCHAR" />
+        <result column="CHARGER_ID" property="chargerId" jdbcType="VARCHAR" />
+
+        <result column="VERSION" property="version" jdbcType="INTEGER" />
+        <result column="TENANT_CODE" property="tenantCode" jdbcType="VARCHAR" />
+        <result column="SPACE_CODE" property="spaceCode" jdbcType="VARCHAR" />
+        <result column="CREATED_ID" property="createdId" jdbcType="VARCHAR" />
+        <result column="UPDATED_ID" property="updatedId" jdbcType="VARCHAR" />
+        <result column="CREATED_DATE" property="createdDate" jdbcType="TIMESTAMP" />
+        <result column="UPDATED_DATE" property="updatedDate" jdbcType="TIMESTAMP" />
+    </resultMap>
+    <select id="findOneByDepartmentId" parameterType="java.lang.String" resultMap="OaGroupSup">
+        SELECT *
+        FROM cube_group_superior_oa
+        WHERE DEPARTMENT_ID = #{departmentId}
+    </select>
+
+    <insert id="insert" parameterType="com.fengyun.cube.workflow.domain.OaGroupSuperiors">
+        INSERT INTO cube_group_superior_oa ( DEPARTMENT_ID,SUPERIOR_ID,CHARGER_ID, VERSION, CREATED_ID, CREATED_DATE, UPDATED_ID, UPDATED_DATE,TENANT_CODE,SPACE_CODE)
+        VALUES ( #{departmentId}, #{superiorId},#{chargerId},#{version}, #{createdId}, #{createdDate},
+        #{updatedId}, #{updatedDate},#{tenantCode},#{spaceCode})
+    </insert>
+
+
+    <delete id="deleteAll" parameterType="java.lang.String">
+        DELETE FROM cube_group_superior_oa
+    </delete>
+</mapper>

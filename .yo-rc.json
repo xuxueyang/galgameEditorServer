@@ -1,0 +1,33 @@
+{
+  "generator-cube-server": {
+    "promptValues": {
+      "packageName": "com.fengyun.cube.workflow"
+    },
+    "jhipsterVersion": "4.5.3",
+    "baseName": "workflow",
+    "packageName": "com.fengyun.cube.workflow",
+    "packageFolder": "com/fengyun/cube/workflow",
+    "serverPort": "10183",
+    "authenticationType": "uaa",
+    "uaaBaseName": "cubeuaa",
+    "hibernateCache": "no",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSocialSignIn": false,
+    "jwtSecretKey": "14e1fb64330203d0531a2d7b40bdb6e491c2f274",
+    "enableTranslation": false,
+    "applicationType": "microservice",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "skipClient": true,
+    "skipUserManagement": true,
+    "clientPackageManager": "yarn"
+  }
+}

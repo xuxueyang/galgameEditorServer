@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.viservice.editor:ueditor-extend-core:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/viservice/editor/ueditor-extend-core/1.0.0-SNAPSHOT/ueditor-extend-core-1.0.0-20171208.010452-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/viservice/editor/ueditor-extend-core/1.0.0-SNAPSHOT/ueditor-extend-core-1.0.0-20171208.010452-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/viservice/editor/ueditor-extend-core/1.0.0-SNAPSHOT/ueditor-extend-core-1.0.0-20171208.010452-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

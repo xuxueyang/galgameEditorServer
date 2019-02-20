@@ -1,0 +1,1544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list id="2ff6fcab-59e4-47e6-908f-ad6de48bfe53" name="Revert &quot;update 日期和接口&quot; This reverts commit d9dc8c1-1" comment="Revert &quot;update 日期和接口&quot;&#10;&#10;This reverts commit d9dc8c1" />
+    <list id="109e9cde-970a-443d-bba2-33c432cf9788" name="Revert &quot;update 日期和接口&quot; This reverts commit d9dc8c1" comment="Revert &quot;update 日期和接口&quot;&#10;&#10;This reverts commit d9dc8c1" />
+    <list id="be7107f8-2533-4241-b3e9-edb07c969c28" name="Revert &quot;Revert &quot;Revert &quot;update 日期&quot;&quot;&quot; This reverts commit 54b445f" comment="Revert &quot;Revert &quot;Revert &quot;update 日期&quot;&quot;&quot;&#10;&#10;This reverts commit 54b445f" />
+    <list default="true" id="2192cde6-7a1c-4902-95e9-fff52eadc456" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../lcgl-base/target/" />
+    <ignored path="$PROJECT_DIR$/../lcgl-base/aa-entity/target/" />
+    <ignored path="$PROJECT_DIR$/../lcgl-uaa/target/" />
+    <ignored path="$PROJECT_DIR$/../lcgl-registry/target/" />
+    <ignored path="$PROJECT_DIR$/../lcgl-upload/target/" />
+    <ignored path="$PROJECT_DIR$/../lcgl-gateway/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/workflow$CubeuaaApp.coverage" NAME="CubeuaaApp Coverage Results" MODIFIED="1531904969331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.fengyun.cube.uaa.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/workflow$WorkflowApp.coverage" NAME="WorkflowApp Coverage Results" MODIFIED="1531469381047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.fengyun.cube.workflow.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="workflow" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
+      <file leaf-file-name="UserSysScheduled.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../lcgl-uaa/src/main/java/com/fengyun/cube/uaa/service/schedule/UserSysScheduled.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1428">
+              <caret line="135" column="67" lean-forward="false" selection-start-line="135" selection-start-column="67" selection-end-line="135" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OAResultWrapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../lcgl-uaa/src/main/java/com/fengyun/cube/uaa/service/schedule/dto/OAResultWrapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OADepartment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../lcgl-uaa/src/main/java/com/fengyun/cube/uaa/service/schedule/dto/OADepartment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-252">
+              <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WorkflowResource.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/web/rest/WorkflowResource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WorkflowLogResource.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/web/rest/WorkflowLogResource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppResource.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/web/rest/AppResource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="42" column="78" lean-forward="true" selection-start-line="42" selection-start-column="78" selection-end-line="42" selection-end-column="78" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/service/AppService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-52">
+              <caret line="58" column="18" lean-forward="false" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application-local.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/config/application-local.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-336">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OAEmployee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../lcgl-uaa/src/main/java/com/fengyun/cube/uaa/service/schedule/dto/OAEmployee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EntityUtils.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar!/org/apache/http/util/EntityUtils.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>local</find>
+      <find>172.18.200.52:8761</find>
+      <find>setChargerId</find>
+      <find>spring-boot-maven-plugin</find>
+      <find>cas</find>
+      <find>workflowLogs</find>
+      <find>createT</find>
+      <find>TASK</find>
+      <find>crea</find>
+      <find>通过</find>
+      <find>createTa</find>
+      <find>org.springframework.boot</find>
+      <find>con</find>
+      <find>dev</find>
+      <find>create</find>
+      <find>createTask</find>
+      <find>FormDataService</find>
+      <find>check-apply-permission</find>
+      <find>judge</find>
+      <find>lcgl-registry</find>
+      <find>WORKFLOW_STATUS_N</find>
+      <find>WORKFLOW_OPERRATION_NO</find>
+      <find>同步</find>
+      <find>organization/employee</find>
+      <find>oaSysResult</find>
+      <find>管理员</find>
+      <find>/employee/loadEmployeeIds</find>
+      <find>employee</find>
+      <find>loadEmployeeIds</find>
+      <find>int multiNum = 1;</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\projects\workflow</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../lcgl-base" value="develop" />
+        <entry key="$PROJECT_DIR$/../lcgl-registry" value="develop" />
+        <entry key="$PROJECT_DIR$/../lcgl-uaa" value="prod" />
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RESET_MODE" value="MIXED" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/web/rest/FormDataResource.java" />
+        <option value="$PROJECT_DIR$/../lcgl-uaa/src/main/java/com/fengyun/cube/uaa/repository/oa/OaGroupChargerMapper.java" />
+        <option value="$PROJECT_DIR$/../lcgl-uaa/src/main/java/com/fengyun/cube/domain/OaGroupCharger.java" />
+        <option value="$PROJECT_DIR$/../lcgl-uaa/src/main/resources/mybatis/mapper/mysql/oa/OaGroupChargerMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/domain/OaGroupCharger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/repository/OaGroupChargerMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis/mapper/mysql/OaGroupChargerMapper.xml" />
+        <option value="$PROJECT_DIR$/../lcgl-uaa/src/main/java/com/fengyun/cube/domain/OaGroupSuperiors.java" />
+        <option value="$PROJECT_DIR$/../lcgl-uaa/src/main/java/com/fengyun/cube/uaa/repository/oa/OaGroupSuperiorsMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/repository/OaGroupSuperiorsMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/domain/OaGroupSuperiors.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis/mapper/mysql/OaGroupSuperiorsMapper.xml" />
+        <option value="$PROJECT_DIR$/../lcgl-uaa/src/main/resources/mybatis/mapper/mysql/oa/OaGroupSuperiorsMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/service/AppService.java" />
+        <option value="$PROJECT_DIR$/../lcgl-upload/pom.xml" />
+        <option value="$PROJECT_DIR$/../lcgl-uaa/src/main/resources/config/bootstrap-test.yml" />
+        <option value="$PROJECT_DIR$/../lcgl-uaa/src/main/resources/config/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/../lcgl-registry/src/main/resources/config/bootstrap-test.yml" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/bootstrap-test.yml" />
+        <option value="$PROJECT_DIR$/../lcgl-gateway/Dockerfile" />
+        <option value="$PROJECT_DIR$/../lcgl-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../lcgl-gateway/src/main/java/com/fengyun/cube/gateway/GatewayApp.java" />
+        <option value="$PROJECT_DIR$/../lcgl-gateway/src/main/resources/config/application-test2.yml" />
+        <option value="$PROJECT_DIR$/../lcgl-gateway/src/main/resources/mybatis/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/../lcgl-gateway/src/main/resources/config/bootstrap-test.yml" />
+        <option value="$PROJECT_DIR$/../lcgl-gateway/src/main/resources/config/application-prod.yml" />
+        <option value="$PROJECT_DIR$/../lcgl-upload/src/main/resources/config/bootstrap-test.yml" />
+        <option value="$PROJECT_DIR$/../lcgl-uaa/src/main/java/com/fengyun/cube/uaa/CubeuaaApp.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/application-prod.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/web/rest/WorkflowLogResource.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/application-test.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/web/rest/AppResource.java" />
+        <option value="$PROJECT_DIR$/../lcgl-uaa/src/main/resources/config/application.yml" />
+        <option value="$PROJECT_DIR$/../lcgl-uaa/src/main/resources/config/application-test.yml" />
+        <option value="$PROJECT_DIR$/../lcgl-uaa/pom.xml" />
+        <option value="$PROJECT_DIR$/../lcgl-uaa/src/main/resources/config/bootstrap-dev.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/application-dev.yml" />
+        <option value="$PROJECT_DIR$/../lcgl-gateway/src/main/resources/config/application-dev.yml" />
+        <option value="$PROJECT_DIR$/../lcgl-uaa/src/main/resources/config/application-dev.yml" />
+        <option value="$PROJECT_DIR$/../lcgl-upload/src/main/resources/config/application-test.yml" />
+        <option value="$PROJECT_DIR$/../lcgl-registry/src/main/resources/config/application-test.yml" />
+        <option value="$PROJECT_DIR$/../lcgl-gateway/src/main/resources/config/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/application.yml" />
+        <option value="$PROJECT_DIR$/../lcgl-gateway/src/main/resources/config/application-test.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/service/RelateOtherService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/service/FormDataService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/service/WorkflowLogService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/service/WorkflowService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/service/TaskService.java" />
+        <option value="$PROJECT_DIR$/../lcgl-uaa/src/main/java/com/fengyun/cube/uaa/service/schedule/UserSysScheduled.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.2" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="workflow" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="workflow" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="workflow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="workflow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.fengyun.cube:cube-rpc-client:2.1-SNAPSHOT" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="workflow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.fengyun.cube:cube-rpc-client:2.1-SNAPSHOT" type="70bed36:NamedLibraryElementNode" />
+              <item name="cube-rpc-client-2.1-20180615.102342-29.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workflow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.fengyun.cube:cube-rpc-client:2.1-SNAPSHOT" type="70bed36:NamedLibraryElementNode" />
+              <item name="cube-rpc-client-2.1-20180615.102342-29.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workflow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.fengyun.cube:cube-rpc-client:2.1-SNAPSHOT" type="70bed36:NamedLibraryElementNode" />
+              <item name="cube-rpc-client-2.1-20180615.102342-29.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc" type="462c0819:PsiDirectoryNode" />
+              <item name="uaa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workflow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.fengyun.cube:cube-rpc-client:2.1-SNAPSHOT" type="70bed36:NamedLibraryElementNode" />
+              <item name="cube-rpc-client-2.1-20180615.102342-29.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc" type="462c0819:PsiDirectoryNode" />
+              <item name="uaa" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="Sys&#9;FILE&#9;file://D:/projects/lcgl-uaa/src/main/java/com/fengyun/cube/uaa/service/schedule/UserSysScheduled.java&#10;Use&#9;FILE&#9;file://D:/projects/lcgl-uaa/src/main/java/com/fengyun/cube/uaa/service/schedule/UserSysScheduled.java&#10;groups&#9;FILE&#9;file://D:/projects/lcgl-uaa/src/main/java/com/fengyun/cube/uaa/service/dto/request/permission/CreatePermissionsGroupsDto.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\workflow\src\main\resources\mybatis\mapper\mysql" />
+      <recent name="D:\projects\workflow\src\main\resources\mybatis\mapper" />
+      <recent name="D:\projects\workflow\src\main\resources\mybatis" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fengyun.cube.workflow.repository" />
+      <recent name="com.fengyun.cube.workflow.domain" />
+      <recent name="com.fengyun.cube.uaa.repository.oa" />
+      <recent name="com.fengyun.cube.uaa.service.schedule" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\lcgl-uaa\src\main\resources\config" />
+      <recent name="D:\projects\lcgl-upload\src\main\resources\config" />
+      <recent name="D:\projects\workflow\src\main\resources\config" />
+      <recent name="D:\projects\lcgl-gateway\src\main\resources\config" />
+      <recent name="D:\projects\lcgl-registry" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CubeuaaApp">
+    <configuration name="CubeuaaApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.fengyun.cube.uaa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.fengyun.cube.uaa.CubeuaaApp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="lcgl-uaa" />
+      <envs />
+    </configuration>
+    <configuration name="GatewayApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.fengyun.cube.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.fengyun.cube.gateway.GatewayApp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="lcgl-gateway" />
+      <envs />
+    </configuration>
+    <configuration name="JHipsterRegistryApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="io.github.jhipster.registry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="io.github.jhipster.registry.JHipsterRegistryApp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="lcgl-registry" />
+      <envs />
+    </configuration>
+    <configuration name="WorkflowApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.fengyun.cube.workflow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.fengyun.cube.workflow.WorkflowApp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="workflow" />
+      <envs />
+    </configuration>
+    <configuration name="WorkflowLogService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.fengyun.cube.workflow.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.fengyun.cube.workflow.service.WorkflowLogService" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="workflow" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.JHipsterRegistryApp" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CubeuaaApp" />
+      <item index="2" class="java.lang.String" itemvalue="Application.WorkflowApp" />
+      <item index="3" class="java.lang.String" itemvalue="Application.WorkflowLogService" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GatewayApp" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.CubeuaaApp" />
+        <item index="1" class="java.lang.String" itemvalue="Application.JHipsterRegistryApp" />
+        <item index="2" class="java.lang.String" itemvalue="Application.GatewayApp" />
+        <item index="3" class="java.lang.String" itemvalue="Application.WorkflowApp" />
+        <item index="4" class="java.lang.String" itemvalue="Application.WorkflowLogService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2192cde6-7a1c-4902-95e9-fff52eadc456" name="Default" comment="" />
+      <created>1527559613977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527559613977</updated>
+    </task>
+    <task id="LOCAL-00159" summary="fix 逐级审批bug 且显示下面审批人的名字">
+      <created>1532571408905</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1532571408906</updated>
+    </task>
+    <task id="LOCAL-00160" summary="update 显示审批人的名字">
+      <created>1532574194968</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1532574194968</updated>
+    </task>
+    <task id="LOCAL-00161" summary="upadte prod的老魔方打包镜像">
+      <created>1532583293662</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1532583293662</updated>
+    </task>
+    <task id="LOCAL-00162" summary="upadte prod的老魔方打包镜像">
+      <created>1532583475524</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1532583475524</updated>
+    </task>
+    <task id="LOCAL-00163" summary="upadte 跨域">
+      <created>1532584913761</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1532584913761</updated>
+    </task>
+    <task id="LOCAL-00164" summary="upadte 跨域">
+      <created>1532585351560</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1532585351560</updated>
+    </task>
+    <task id="LOCAL-00165" summary="upadte 跨域">
+      <created>1532585877760</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1532585877760</updated>
+    </task>
+    <task id="LOCAL-00166" summary="upadte 跨域">
+      <created>1532586569970</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1532586569970</updated>
+    </task>
+    <task id="LOCAL-00167" summary="upadte 跨域">
+      <created>1532586627594</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1532586627594</updated>
+    </task>
+    <task id="LOCAL-00168" summary="upadte 跨域">
+      <created>1532587647905</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1532587647906</updated>
+    </task>
+    <task id="LOCAL-00169" summary="测试">
+      <created>1532587892777</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1532587892778</updated>
+    </task>
+    <task id="LOCAL-00170" summary="测试">
+      <created>1532587927679</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1532587927679</updated>
+    </task>
+    <task id="LOCAL-00171" summary="测试">
+      <created>1532588279017</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1532588279017</updated>
+    </task>
+    <task id="LOCAL-00172" summary="fix bug">
+      <created>1532589478389</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1532589478389</updated>
+    </task>
+    <task id="LOCAL-00173" summary="fix bug">
+      <created>1532590143315</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1532590143315</updated>
+    </task>
+    <task id="LOCAL-00174" summary="Revert &quot;upadte 跨域&quot;&#10;&#10;This reverts commit b5febde">
+      <created>1532590824901</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1532590824901</updated>
+    </task>
+    <task id="LOCAL-00175" summary="Revert &quot;upadte 跨域&quot;&#10;&#10;This reverts commit b5febde">
+      <created>1532590881985</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1532590881985</updated>
+    </task>
+    <task id="LOCAL-00176" summary="测试dev的配置文件的跨域">
+      <created>1532591431114</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1532591431114</updated>
+    </task>
+    <task id="LOCAL-00177" summary="测试dev的配置文件的跨域">
+      <created>1532591751538</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1532591751538</updated>
+    </task>
+    <task id="LOCAL-00178" summary="测试dev的配置文件的跨域">
+      <created>1532592073347</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1532592073347</updated>
+    </task>
+    <task id="LOCAL-00179" summary="测试dev的配置文件的跨域">
+      <created>1532595046970</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1532595046970</updated>
+    </task>
+    <task id="LOCAL-00180" summary="测试dev的配置文件的跨域">
+      <created>1532599681757</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1532599681757</updated>
+    </task>
+    <task id="LOCAL-00181" summary="fix bug redis的code写成了type...">
+      <created>1532600037144</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1532600037144</updated>
+    </task>
+    <task id="LOCAL-00182" summary="update">
+      <created>1532996838319</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1532996838320</updated>
+    </task>
+    <task id="LOCAL-00183" summary="update 前段后都设置跨域会有问题，去掉后端的">
+      <created>1532997672209</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1532997672209</updated>
+    </task>
+    <task id="LOCAL-00184" summary="update 前段后都设置跨域会有问题，去掉后端的">
+      <created>1532998014857</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1532998014857</updated>
+    </task>
+    <task id="LOCAL-00185" summary="update 前段后都设置跨域会有问题，去掉后端的">
+      <created>1532998364311</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1532998364311</updated>
+    </task>
+    <task id="LOCAL-00186" summary="update 前段后都设置跨域会有问题，去掉后端的">
+      <created>1532999445395</created>
+      <option name="number" value="00186" />
+      <option name="presentableId" value="LOCAL-00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1532999445395</updated>
+    </task>
+    <task id="LOCAL-00187" summary="update 前段后都设置跨域会有问题，去掉后端的">
+      <created>1533000152020</created>
+      <option name="number" value="00187" />
+      <option name="presentableId" value="LOCAL-00187" />
+      <option name="project" value="LOCAL" />
+      <updated>1533000152020</updated>
+    </task>
+    <task id="LOCAL-00188" summary="update 前段后都设置跨域会有问题，去掉后端的">
+      <created>1533000211055</created>
+      <option name="number" value="00188" />
+      <option name="presentableId" value="LOCAL-00188" />
+      <option name="project" value="LOCAL" />
+      <updated>1533000211055</updated>
+    </task>
+    <task id="LOCAL-00189" summary="update">
+      <created>1533000668178</created>
+      <option name="number" value="00189" />
+      <option name="presentableId" value="LOCAL-00189" />
+      <option name="project" value="LOCAL" />
+      <updated>1533000668178</updated>
+    </task>
+    <task id="LOCAL-00190" summary="update">
+      <created>1533001239543</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1533001239543</updated>
+    </task>
+    <task id="LOCAL-00191" summary="fix bug 分支判断">
+      <created>1533004636760</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1533004636760</updated>
+    </task>
+    <task id="LOCAL-00192" summary="fix bug 分支判断">
+      <created>1533005177791</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1533005177791</updated>
+    </task>
+    <task id="LOCAL-00193" summary="update">
+      <created>1533005747896</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1533005747896</updated>
+    </task>
+    <task id="LOCAL-00194" summary="fix bug">
+      <created>1533006879878</created>
+      <option name="number" value="00194" />
+      <option name="presentableId" value="LOCAL-00194" />
+      <option name="project" value="LOCAL" />
+      <updated>1533006879878</updated>
+    </task>
+    <task id="LOCAL-00195" summary="fix bug">
+      <created>1533007611874</created>
+      <option name="number" value="00195" />
+      <option name="presentableId" value="LOCAL-00195" />
+      <option name="project" value="LOCAL" />
+      <updated>1533007611874</updated>
+    </task>
+    <task id="LOCAL-00196" summary="fix bug">
+      <created>1533106799640</created>
+      <option name="number" value="00196" />
+      <option name="presentableId" value="LOCAL-00196" />
+      <option name="project" value="LOCAL" />
+      <updated>1533106799640</updated>
+    </task>
+    <task id="LOCAL-00197" summary="fix bug">
+      <created>1533107741242</created>
+      <option name="number" value="00197" />
+      <option name="presentableId" value="LOCAL-00197" />
+      <option name="project" value="LOCAL" />
+      <updated>1533107741243</updated>
+    </task>
+    <task id="LOCAL-00198" summary="fix bug">
+      <created>1533107859274</created>
+      <option name="number" value="00198" />
+      <option name="presentableId" value="LOCAL-00198" />
+      <option name="project" value="LOCAL" />
+      <updated>1533107859274</updated>
+    </task>
+    <task id="LOCAL-00199" summary="fix bug 已办中不现实抄送">
+      <created>1533267705916</created>
+      <option name="number" value="00199" />
+      <option name="presentableId" value="LOCAL-00199" />
+      <option name="project" value="LOCAL" />
+      <updated>1533267705917</updated>
+    </task>
+    <task id="LOCAL-00200" summary="update 显示任务的最新状态">
+      <created>1533276767359</created>
+      <option name="number" value="00200" />
+      <option name="presentableId" value="LOCAL-00200" />
+      <option name="project" value="LOCAL" />
+      <updated>1533276767359</updated>
+    </task>
+    <task id="LOCAL-00201" summary="add uaa同步的时候，添加组织架构层级">
+      <created>1533277993001</created>
+      <option name="number" value="00201" />
+      <option name="presentableId" value="LOCAL-00201" />
+      <option name="project" value="LOCAL" />
+      <updated>1533277993001</updated>
+    </task>
+    <task id="LOCAL-00202" summary="add 存储组织架构的层级，最顶层为1">
+      <created>1533278455672</created>
+      <option name="number" value="00202" />
+      <option name="presentableId" value="LOCAL-00202" />
+      <option name="project" value="LOCAL" />
+      <updated>1533278455672</updated>
+    </task>
+    <task id="LOCAL-00203" summary="add 审批的组织层级判断">
+      <created>1533279533741</created>
+      <option name="number" value="00203" />
+      <option name="presentableId" value="LOCAL-00203" />
+      <option name="project" value="LOCAL" />
+      <updated>1533279533741</updated>
+    </task>
+    <task id="LOCAL-00204" summary="update task去重显示">
+      <created>1533288596841</created>
+      <option name="number" value="00204" />
+      <option name="presentableId" value="LOCAL-00204" />
+      <option name="project" value="LOCAL" />
+      <updated>1533288596841</updated>
+    </task>
+    <task id="LOCAL-00205" summary="update task结束后的当前节点的显示">
+      <created>1533528457308</created>
+      <option name="number" value="00205" />
+      <option name="presentableId" value="LOCAL-00205" />
+      <option name="project" value="LOCAL" />
+      <updated>1533528457309</updated>
+    </task>
+    <task id="LOCAL-00206" summary="update task结束后的当前节点的显示">
+      <created>1533536089290</created>
+      <option name="number" value="00206" />
+      <option name="presentableId" value="LOCAL-00206" />
+      <option name="project" value="LOCAL" />
+      <updated>1533536089290</updated>
+    </task>
+    <task id="LOCAL-00207" summary="update 修改同步的路径">
+      <created>1548295524466</created>
+      <option name="number" value="00207" />
+      <option name="presentableId" value="LOCAL-00207" />
+      <option name="project" value="LOCAL" />
+      <updated>1548295524466</updated>
+    </task>
+    <option name="localTasksCounter" value="208" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934132" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4550898" sideWeight="0.27952328" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299025" sideWeight="0.49285713" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41714287" sideWeight="0.7204767" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55699176" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.56047904" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28125" sideWeight="0.4923077" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24972914" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24972914" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2291441" sideWeight="0.50769234" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46586826" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934132" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299025" sideWeight="0.50714284" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934132" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/../lcgl-uaa" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="true" />
+    <MESSAGE value="change 定時任務時間" />
+    <MESSAGE value="edit pom 为了部署到魔方" />
+    <MESSAGE value="update 單體登錄配置ip" />
+    <MESSAGE value="update 單體登錄配置ip(先拿生成的用一下）" />
+    <MESSAGE value="update 跨域" />
+    <MESSAGE value="fix 逐级审批bug 且显示下面审批人的名字" />
+    <MESSAGE value="update 显示审批人的名字" />
+    <MESSAGE value="upadte prod的老魔方打包镜像" />
+    <MESSAGE value="upadte 跨域" />
+    <MESSAGE value="测试" />
+    <MESSAGE value="Revert &quot;upadte 跨域&quot;&#10;&#10;This reverts commit b5febde" />
+    <MESSAGE value="测试dev的配置文件的跨域" />
+    <MESSAGE value="fix bug redis的code写成了type..." />
+    <MESSAGE value="update 前段后都设置跨域会有问题，去掉后端的" />
+    <MESSAGE value="fix bug 分支判断" />
+    <MESSAGE value="update" />
+    <MESSAGE value="fix bug" />
+    <MESSAGE value="fix bug 已办中不现实抄送" />
+    <MESSAGE value="update 显示任务的最新状态" />
+    <MESSAGE value="add uaa同步的时候，添加组织架构层级" />
+    <MESSAGE value="add 存储组织架构的层级，最顶层为1" />
+    <MESSAGE value="add 审批的组织层级判断" />
+    <MESSAGE value="update task去重显示" />
+    <MESSAGE value="update task结束后的当前节点的显示" />
+    <MESSAGE value="update 修改同步的路径" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 修改同步的路径" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="100" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../lcgl-gateway/src/main/resources/config/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="133" column="9" lean-forward="true" selection-start-line="133" selection-start-column="9" selection-end-line="133" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="109" column="25" lean-forward="true" selection-start-line="109" selection-start-column="25" selection-end-line="109" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lcgl-uaa/src/main/resources/config/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="94" column="28" lean-forward="false" selection-start-line="94" selection-start-column="28" selection-end-line="94" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lcgl-uaa/src/main/resources/config/application-local.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-558">
+          <caret line="92" column="0" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lcgl-uaa/src/main/resources/config/application-dev.yml" />
+    <entry file="file://$PROJECT_DIR$/../lcgl-gateway/src/main/resources/config/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="140" column="31" lean-forward="true" selection-start-line="140" selection-start-column="31" selection-end-line="140" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lcgl-gateway/src/main/resources/config/application-test.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="132" column="10" lean-forward="true" selection-start-line="132" selection-start-column="10" selection-end-line="132" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/domain/AutoJudge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/application-dev.yml" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="110" column="19" lean-forward="false" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lcgl-registry/src/main/resources/config/bootstrap-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lcgl-registry/src/main/resources/config/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1191">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lcgl-gateway/src/main/resources/config/bootstrap-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lcgl-gateway/src/main/resources/config/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2290">
+          <caret line="24" column="29" lean-forward="false" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lcgl-uaa/src/main/resources/config/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lcgl-uaa/src/main/resources/config/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2466">
+          <caret line="137" column="19" lean-forward="false" selection-start-line="137" selection-start-column="19" selection-end-line="137" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lcgl-upload/src/main/resources/config/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/config/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1962">
+          <caret line="109" column="53" lean-forward="false" selection-start-line="109" selection-start-column="31" selection-end-line="109" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/domain/WorkflowNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <element signature="e#4249#4250#0" expanded="false" />
+            <element signature="e#4273#4274#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fengyun/cube/cube-rpc-client/2.1-SNAPSHOT/cube-rpc-client-2.1-20180615.102342-29.jar!/com/fengyun/cube/rpc/uaa/dto/UserInfo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fengyun/cube/cube-rpc-client/2.1-SNAPSHOT/cube-rpc-client-2.1-20180615.102342-29.jar!/com/fengyun/cube/rpc/uaa/client/CubeuaaRpcClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-596">
+          <caret line="39" column="37" lean-forward="true" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fengyun/cube/cube-rpc-client/2.1-SNAPSHOT/cube-rpc-client-2.1-20180615.102342-29.jar!/com/fengyun/cube/rpc/uaa/client/CubeuaaClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lcgl-uaa/src/main/java/com/fengyun/cube/uaa/repository/oa/OaGroupSuperiorsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8274">
+          <caret line="614" column="30" lean-forward="false" selection-start-line="614" selection-start-column="30" selection-end-line="614" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/service/WorkflowService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12810">
+          <caret line="945" column="13" lean-forward="false" selection-start-line="945" selection-start-column="13" selection-end-line="945" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="144" column="12" lean-forward="false" selection-start-line="144" selection-start-column="12" selection-end-line="144" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/service/SenderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/service/TaskService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="443" column="75" lean-forward="false" selection-start-line="443" selection-start-column="75" selection-end-line="443" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/service/WorkflowLogService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="137" column="48" lean-forward="false" selection-start-line="137" selection-start-column="48" selection-end-line="137" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/service/BranchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/service/FormDataService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8946">
+          <caret line="681" column="75" lean-forward="false" selection-start-line="681" selection-start-column="75" selection-end-line="681" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lcgl-uaa/src/main/java/com/fengyun/cube/uaa/web/rpc/PermissionRpcResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-56">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lcgl-uaa/src/main/java/com/fengyun/cube/uaa/web/rpc/SubspaceRpcResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lcgl-uaa/src/main/java/com/fengyun/cube/uaa/web/rpc/SpaceRpcResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lcgl-uaa/src/main/java/com/fengyun/cube/uaa/web/rest/sync/OASyncResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="35" column="35" lean-forward="false" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/web/rest/BranchResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-742">
+          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/web/rest/FormDataResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-195">
+          <caret line="238" column="29" lean-forward="false" selection-start-line="238" selection-start-column="29" selection-end-line="238" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/web/rest/TaskResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-266">
+          <caret line="58" column="85" lean-forward="false" selection-start-line="58" selection-start-column="85" selection-end-line="58" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lcgl-uaa/src/main/java/com/fengyun/cube/domain/UsersRoles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lcgl-uaa/src/main/java/com/fengyun/cube/uaa/service/schedule/dto/OASysResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/service/RelateOtherService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="28" column="180" lean-forward="false" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="180" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar!/org/apache/http/util/EntityUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lcgl-uaa/src/main/java/com/fengyun/cube/uaa/service/schedule/UserSysScheduled.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="135" column="67" lean-forward="false" selection-start-line="135" selection-start-column="67" selection-end-line="135" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lcgl-uaa/src/main/java/com/fengyun/cube/uaa/service/schedule/dto/OAResultWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lcgl-uaa/src/main/java/com/fengyun/cube/uaa/service/schedule/dto/OAEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lcgl-uaa/src/main/java/com/fengyun/cube/uaa/service/schedule/dto/OADepartment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/web/rest/WorkflowResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/web/rest/WorkflowLogResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/service/AppService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52">
+          <caret line="58" column="18" lean-forward="false" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/application-local.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-336">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengyun/cube/workflow/web/rest/AppResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="42" column="78" lean-forward="true" selection-start-line="42" selection-start-column="78" selection-end-line="42" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>lcgl-gateway</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

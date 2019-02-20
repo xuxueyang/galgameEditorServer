@@ -1,0 +1,30 @@
+version: '2.1'
+services:
+    workflow:
+        image: 218.4.170.235:80/workflow/prod:dev
+        ports:
+          - "10183:10183"
+        volumes:
+          - "/var/log/workflow:/var/log/workflow"
+          - "/opt/cube-code:/opt/cube-code"
+          - "/etc/localtime:/etc/localtime:ro"
+        environment:
+            - EUREKA_CLIENT_SERVICE-URL_DEFAULTZONE=http://admin:$${jhipster.registry.password}@lcgl-registry:8761/eureka
+            - SPRING_CLOUD_CONFIG_URI=http://admin:$${jhipster.registry.password}@lcgl-registry:8761/config
+            - SERVER_PORT=10183
+            - SPRING_DATASOURCE_URL=jdbc:mysql://172.18.61.70:3306/workflow?useUnicode=true&characterEncoding=utf8&useSSL=false
+            - SPRING_DATASOURCE_USERNAME=root
+            - SPRING_DATASOURCE_PASSWORD=FY@tetris.2017!
+            - SPRING_REDIS_HOST=172.18.61.70
+            - SPRING_REDIS_PASSWORD=fengyun123456
+            - SPRING_REDIS_PORT=9701
+            - CUBE_PROJECT-CODE=lcgl
+            - CUBE_ELASTICSEARCH_CLUSTERNAME=puppettest1
+            - CUBE_ELASTICSEARCH_CLUSTERNODES=172.18.61.56:9300
+            - CUBE_ELASTICSEARCH_ENV=dev-lcgl
+            - JAVA_OPTS=-Xms256M -Xmx512M -XX:PermSize=256m -XX:MaxPermSize=512m
+            - SPRING_DATA_MONGODB_URI=mongodb://root:root@218.4.170.234:27017/workflow-dev
+#            - APPLICATION_CONFIG_EMAIL_SUBJECT_CARBON=抄送数据通知
+#            - APPLICATION_CONFIG_EMAIL_SUBJECT_RESULT=申请结果通知
+#            - APPLICATION_CONFIG_EMAIL_SUBJECT_SOLVE=待处理数据通知
+#            - APPLICATION_CONFIG_FLOW_SUPERIOR_OAID=c21ac434-7838-4f78-b439-8eb5f8ea4103

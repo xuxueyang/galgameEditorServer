@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../lcgl-gateway/lcgl-gateway.iml" filepath="$PROJECT_DIR$/../lcgl-gateway/lcgl-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lcgl-registry/lcgl-registry.iml" filepath="$PROJECT_DIR$/../lcgl-registry/lcgl-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lcgl-uaa/lcgl-uaa.iml" filepath="$PROJECT_DIR$/../lcgl-uaa/lcgl-uaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lcgl-upload/lcgl-upload.iml" filepath="$PROJECT_DIR$/../lcgl-upload/lcgl-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workflow.iml" filepath="$PROJECT_DIR$/workflow.iml" />
+    </modules>
+  </component>
+</project>

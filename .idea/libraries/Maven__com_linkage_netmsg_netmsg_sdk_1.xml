@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.linkage.netmsg:netmsg_sdk:1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/linkage/netmsg/netmsg_sdk/1/netmsg_sdk-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/linkage/netmsg/netmsg_sdk/1/netmsg_sdk-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/linkage/netmsg/netmsg_sdk/1/netmsg_sdk-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

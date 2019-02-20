@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.fengyun.cube:cube-els-client:2.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fengyun/cube/cube-els-client/2.1-SNAPSHOT/cube-els-client-2.1-20180615.102352-29.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fengyun/cube/cube-els-client/2.1-SNAPSHOT/cube-els-client-2.1-20180615.102352-29-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fengyun/cube/cube-els-client/2.1-SNAPSHOT/cube-els-client-2.1-20180615.102352-29-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
